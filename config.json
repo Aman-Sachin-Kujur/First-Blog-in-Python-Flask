@@ -8,14 +8,14 @@
         "tw_uri": "https://twitter.com/@AmanSachinKuju2",
         "blog_name": "CodVerse",
         "tag_line": "A Blog liked by Coders",
-        "gmail-user": "your gmail",
-        "gmail-password": "your gmail password ",
+        "gmail-user": "(your gmail)",
+        "gmail-password": "(your gmail password)",
         "about_text": "Hi, My name is Aman and I am a good Boy. This is my first website made through Flask.",
         "no._of_posts" : 2,
         "login_image": "bootstrap-solid.svg",
-        "admin_user": "UserName",
-        "admin_password": "admin password",
-        "upload_loc": "E:\\Aman\\Python\\Learning Flask\\The Coder\\static\\img"
+        "admin_user": "(UserName)",
+        "admin_password": "(admin password)",
+        "upload_loc": "(Image Uploading Path)"
 
     }
 

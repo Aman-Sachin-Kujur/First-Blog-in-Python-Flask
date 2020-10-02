@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        
+        "local_uri": "mysql://root:@localhost/codverse",
+        "prod_uri": "mysql://root:@localhost/codverse",
+        "ig_uri": "https://instagram.com/_theask",
+        "tw_uri": "https://twitter.com/@AmanSachinKuju2",
+        "blog_name": "CodVerse",
+        "tag_line": "A Blog liked by Coders",
+        "gmail-user": "amansachinkujurgumla2005@gmail.com",
+        "gmail-password": "amanattherategoogle2005",
+        "about_text": "Hi, My name is Aman and I am a good Boy. This is my first website made through Flask.",
+        "no._of_posts" : 2,
+        "login_image": "bootstrap-solid.svg",
+        "admin_user": "Aman Sachin Kujur",
+        "admin_password": "amanattheratecodverse2005",
+        "upload_loc": "E:\\Aman\\Python\\Learning Flask\\The Coder\\static\\img"
+
+    }
+
+
+}
